@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261089490958",
+    "project_id": "tasteapp-33ffd",
+    "storage_bucket": "tasteapp-33ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261089490958:android:a1c9c29c4effee3ff0245f",
+        "android_client_info": {
+          "package_name": "com.example.foodordering_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261089490958-srj9ereup5rkp0ftc2h5o4umstue6cja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChUotfB97tPOP140JAIX0-HFX4VEMNvEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261089490958-srj9ereup5rkp0ftc2h5o4umstue6cja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
